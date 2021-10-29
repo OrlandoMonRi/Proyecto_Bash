@@ -1,0 +1,160 @@
+Metodologías agile
+
+SCRUM https://proyectosagiles.org/que-es-scrum/
+
+Las actividades que se llevan a cabo en Scrum son las siguientes:
+
+Selección de requisitos (2 horas). El cliente presenta al equipo la lista de requisitos priorizada del producto o proyecto. El equipo pregunta al cliente las dudas que surgen y selecciona los requisitos más prioritarios que prevé que podrá completar en la iteración, de manera que puedan ser entregados si el cliente lo solicita.
+
+Planificación de la iteración (2 horas). El equipo elabora la lista de tareas de la iteración necesarias para desarrollar los requisitos seleccionados. La estimación de esfuerzo se hace de manera conjunta y los miembros del equipo se auto asignan las tareas, se autoorganizan para trabajar incluso en parejas (o grupos mayores) con el fin de compartir conocimiento (creando un equipo más resiliente) o para resolver juntos objetivos especialmente complejos.
+
+Durante la iteración, el cliente junto con el equipo refinan la lista de requisitos (para prepararlos para las siguientes iteraciones) y, si es necesario, cambian o planifican los objetivos del proyecto (10%-15% del tiempo de la iteración) con el objetivo de maximizar la utilidad de lo que se desarrolla y el retorno de inversión.
+Inspección y adaptación
+El último día de la iteración se realiza la reunión de revisión de la iteración. Tiene dos partes:
+
+Revisión (demostración) (1,5 horas). El equipo presenta al cliente los requisitos completados en la iteración, en forma de incremento de producto preparado para ser entregado con el mínimo esfuerzo. En función de los resultados mostrados y de los cambios que haya habido en el contexto del proyecto, el cliente puede realizar las adaptaciones necesarias de manera objetiva, ya desde la primera iteración, replanificando el proyecto.
+
+Retrospectiva (1,5 horas). El equipo analiza cómo ha sido su manera de trabajar y cuáles son los problemas que podrían impedirle progresar adecuadamente, mejorando de manera continua su productividad. El Facilitador se encargará de eliminar o escalar los obstáculos identificados que estén más allá del ámbito de acción del equipo.
+
+X. P. https://www.iebschool.com/blog/que-es-el-xp-programming-agile-scrum/
+
+La metodología XP define cuatro variables para cualquier proyecto de software. Estas son las siguientes:
+
+    Coste
+    Tiempo
+    Calidad
+    Alcance
+
+
+Por otro lado, entre las características de este tipo de metodología encontramos las siguientes:
+
+    Planificación flexible y abierta
+    Desarrollo iterativo e incremental aportando pequeñas mejoras
+    El equipo de proyecto se considera como el factor principal de éxito del proyecto
+    El software funciona por encima de la documentación
+    Debe haber una interacción continua entre el cliente y los desarrolladores
+    Respuesta rápida y eficaz ante posibles cambios
+
+Valores del Extreme Programming
+
+1. Comunicación
+
+Como comunicación entendemos no solo una buena interacción interna entre los propios miembros del equipo de desarrolladores, sino también con los clientes. El objetivo es romper las barreras entre negocio y desarrollo. Para ello, la programación XP promueve que todos los requisitos sean comunicados y trabajados con el equipo y no mediante documentación.
+
+2. Simplicidad
+
+Empezar con la solución más simple es clave en la programación XP. Esta metodología pone el foco en codificar las necesidades de hoy, no las de un futuro. Además, también se simplifica el diseño para agilizar el desarrollo y facilitar el mantenimiento. Para conservar la simplicidad hay que mantener la refactorización del código, así podremos preservar el código simple a medida que va creciendo.
+
+3. Feedback
+
+Una de las mayores ventajas de que el cliente esté integrado en el proyecto es que su opinión sobre el estado de este lo podemos conocer en tiempo real. Gracias a que se hacen ciclos muy cortos de presentación de resultados, se minimiza el riesgo de tener que rehacer partes que no cumplen con las expectativas del cliente. También, por otro lado, ayuda a los programadores a centrarse en las tareas más importantes.
+
+4. Respeto
+
+El respeto mutuo es fundamental para que un equipo pueda trabajar de forma eficiente y ofrecer un buen rendimiento. Implica desde que un desarrollador no realice modificaciones que puedan tener un impacto negativo en el trabajo de un compañero hasta la forma de llegar al cliente. El respeto se manifiesta de varias formas y todas son cruciales para una mejor autoestima en el equipo, que lleva consigo un mayor ritmo de producción.
+
+5. Valentía
+
+Diseñar y programar para hoy y no para mañana implica valentía en la metodología XP, así como reconocer los errores tan pronto como se detecten. Ningún miembro del equipo puede perder el tiempo en intentar hacer de menos su responsabilidad en un error cometido, ya que esto significa dejar de centrarse en otras cosas e impedirá avanzar al resto, por lo que la productividad bajará.
+
+El equipo de un proyecto XP
+
+Clientes: Establecen las prioridades y marca el proyecto. Suelen ser los usuarios finales del producto y quiénes marcan las necesidades.
+Programadores: Serán los que se encargarán de desarrollar el Extreme Programming.
+Testers: se encargan de ayudar al cliente sobre los requisitos del producto.
+Coach: Asesoran al resto de componentes del equipo y marcan el rumbo del proyecto.
+Manager: Ofrece recursos, es el responsable de la comunicación externa y quien coordina las actividades.
+
+Kanban https://kanbanize.com/es/recursos-de-kanban/primeros-pasos/que-es-kanban
+
+Los 4 principios básicos de Método Kanban
+
+Principio 1: Empezar con lo que hace ahora
+
+Kanban no requiere configuración y puede ser aplicado sobre flujos reales de trabajo o procesos activos para identificar los problemas. Por eso es fácil implementar Kanban en cualquier tipo de organización, ya que no es necesario realizar cambios drásticos.
+
+Principio 2: Comprometerse a buscar e implementar cambios incrementales y evolutivos
+
+El método Kanban está diseñado para implementarse con una mínima resistencia, por lo que trata de pequeños y continuos cambios incrementales y evolutivos del proceso actual. En general, los cambios radicales no son considerados, ya que normalmente se encuentran con resistencias debidas al miedo o la incertidumbre del proceso.
+
+Principio 3: Respetar los procesos, las responsabilidades y los cargos actuales
+
+Kanban reconoce que los procesos en curso, los roles, las responsabilidades y los cargos existentes pueden tener valor y vale la pena conservarlos. El método Kanban no prohíbe el cambio, pero tampoco lo prescribe. Alienta el cambio incremental, ya que no provoca tanto miedo como para frenar el progreso.
+
+Principio 4: Animar el liderazgo en todos los niveles
+
+Este es el principio más novedoso de Kanban. Algunos de los mejores liderazgos surgen de actos del día a día de gente que está al frente de sus equipos. Es importante que todos fomenten una mentalidad de mejora continua (Kaizen) para alcanzar el rendimiento óptimo a nivel de equipo/ departamento/ empresa. Esto no puede ser una actividad a nivel de dirección.
+
+Crystal https://www.tecnologias-informacion.com/metodologia-crystal.html
+
+Un enfoque de desarrollo iterativo e incremental: el proyecto se desarrolla en iteraciones que generalmente tienen un límite de tiempo. La característica entregada al final de una iteración está integrada en el sistema general. Los comentarios de los usuarios tomados al final de una iteración se utilizan para planificar la próxima iteración; y, se agregan características nuevas y adicionales en cada iteración posterior. Todo esto da como resultado el refinamiento y la finalización del software en general.
+
+Participación activa del usuario: esto es imprescindible porque Crystal es un enfoque centrado en las personas y enfatiza la transparencia. Por lo tanto, los usuarios no solo participan activamente sino que también reciben información periódica sobre el progreso del proyecto.
+
+Cumplimiento de compromisos: el equipo se esfuerza por garantizar la entrega frecuente de funcionalidades potencialmente viables y valoradas por el cliente. Es con este fin que Crystal sigue un enfoque de desarrollo iterativo e incremental.
+
+El método Crystal se desarrolla basándose en tres grandes aspectos que son:
+
+Potencia Humana
+
+Esto significa que las personas son el aspecto más importante de Crystal, y que todos los procesos y herramientas están relacionados con ellas. Crystal cree que el desarrollo de software es esencialmente una actividad humana, por lo que las personas involucradas en esta actividad son vitales, mientras que los procesos deben modelarse para cumplir con los requisitos del equipo, y no al revés.
+
+Crystal enfatiza que los equipos de desarrollo son autosuficientes y auto organizados, por lo que son capaces de racionalizar los procesos a medida que avanza el proceso de desarrollo y se vuelven más organizados y competentes.
+
+Adaptativo
+
+En cuanto a lo adaptativo, hay que decir que en primer lugar, debemos recordar que Crystal no es un conjunto de herramientas y técnicas prescritas para el desarrollo de software; más bien, es un enfoque. Por lo tanto, los procesos y las herramientas no son fijas, sino que deben ajustarse a los requisitos y características del proyecto.
+
+En otras palabras, Crystal es una metodología de "estiramiento a medida", porque cada proyecto es único y requiere métodos que se adapten a los requisitos comerciales y que satisfagan los requisitos técnicos del proyecto.
+
+Ultraligero
+
+Finalmente, cuando hablamos de que Crystal es ultraligero es debido a que Crystal no recomienda demasiada documentación, administración general e informes. En cambio, cree en mantener las cosas ligeras y centrarse en el desarrollo de software funcional y valorado para el negocio.
+
+Para esto, los equipos que siguen el enfoque de Crystal trabajan para mejorar la comunicación libre y abierta entre los miembros del equipo, así como para establecer un flujo transparente de información entre los desarrolladores y las partes interesadas.
+
+Metodologías tradicionales
+
+Cascada https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/el-modelo-en-cascada/
+
+En la práctica, se aplican modelos que dividen los procesos de desarrollo en cinco fases:
+
+    Análisis: planificación, análisis y especificación de los requisitos.
+    Diseño: diseño y especificación del sistema.
+    Implementación: programación y pruebas unitarias.
+    Verificación: integración de sistemas, pruebas de sistema y de integración.
+    Mantenimiento: entrega, mantenimiento y mejora.
+
+Espiral https://www2.deloitte.com/es/es/pages/technology/articles/que-es-el-desarrollo-en-espiral.html
+
+Actividades se abordan en cada una de las fases del modelo:
+
+Planificación
+
+Incluye la estimación del coste, el calendario y los recursos para la iteración.
+
+Implica también la comprensión de los requisitos del sistema para la comunicación continua entre el analista de requerimientos y el cliente.
+
+Análisis del riesgo
+
+La identificación de los riesgos potenciales se realiza mientras se planifica y finaliza la estrategia de mitigación de riesgos.
+
+Ingeniería
+
+Incluye la codificación, pruebas y el despliegue del software.
+
+Evaluación
+
+Evaluación del software por parte del cliente.
+
+Además, incluye la identificación y el seguimiento de riesgos tales como los retrasos en los plazos y los sobrecostes.
+
+
+Modelo V https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/modelo-v/
+
+Las fases del modelo V
+
+Al principio del proyecto, el modelo prevé un análisis de las especificaciones del sistema planificado (fase de especificaciones).
+El proyecto se completa después con requisitos funcionales y no funcionales para la arquitectura del sistema (fase funcional).
+A esta fase le sigue el diseño del sistema, en el que se planifican los componentes y las interfaces de este (fase de diseño).
+Una vez completadas estas fases, se puede diseñar en detalle la arquitectura del software (codificación).
