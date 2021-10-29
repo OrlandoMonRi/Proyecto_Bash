@@ -18,14 +18,6 @@ Retrospectiva (1,5 horas). El equipo analiza cómo ha sido su manera de trabajar
 
 X. P. https://www.iebschool.com/blog/que-es-el-xp-programming-agile-scrum/
 
-La metodología XP define cuatro variables para cualquier proyecto de software. Estas son las siguientes:
-
-    Coste
-    Tiempo
-    Calidad
-    Alcance
-
-
 Por otro lado, entre las características de este tipo de metodología encontramos las siguientes:
 
     Planificación flexible y abierta
