@@ -24,7 +24,7 @@ BASH (Bourne Again Shell) – Lenguaje del Proyecto GNU
 * Orlando Moncada Rivera a329777
 
 # Versiones
-Observe la historia en GitHub
+Release 1.0
 
 # Autores
 * Andrés Romero Ramos a329540
